@@ -1,6 +1,6 @@
 ### Hi there, I'm Ky 👋
 
-![img](images\slime.png)
+![img](images\slime.png?raw=true)
 
 ## I'm a Developer!!
 
