@@ -1,8 +1,6 @@
 ### Hi there, I'm Ky 👋
 ![img](https://github.com/nguyendaiky/nguyendaiky/blob/main/images/first_pixel_art.gif?raw=true)
 
-## I'm a Developer!!
-
 - 🔭 I'm currently studying at the University of Information Technology (VNUHCM)
 - 🌱 I’m currently learning everything I like 😋
 - 👯 I’m looking to collaborate with other developers
