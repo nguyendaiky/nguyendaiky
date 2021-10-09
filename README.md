@@ -1,6 +1,6 @@
 ### Hi there, I'm Ky 👋
 
-![img](images\first_pixel_art.gif)
+![img](images\slime.png)
 
 ## I'm a Developer!!
 
