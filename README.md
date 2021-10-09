@@ -1,6 +1,6 @@
 ### Hi there, I'm Ky 👋
 
-![img](https://github.com/nguyendaiky/nguyendaiky/blob/main/images/slime.png?raw=true)
+![img](https://github.com/nguyendaiky/nguyendaiky/blob/main/images/first_pixel_art.gif?raw=true)
 
 ## I'm a Developer!!
 
