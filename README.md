@@ -1,5 +1,7 @@
 ### Hi there, I'm Ky 👋
 
+![img](images\first_pixel_art.gif)
+
 ## I'm a Developer!!
 
 - 🔭 I'm currently studying at the University of Information Technology (VNUHCM)
