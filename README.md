@@ -31,6 +31,6 @@
 
 <br />
 
-[facebook]: https://www.facebook.com/kynd.k/
-[instagram]: https://instagram.com/kynd.d/
+[facebook]: https://www.facebook.com/nguyendaikyy/
+[instagram]: https://instagram.com/nguyendaikyy/
 [twitter]: https://twitter.com/nguyendaiky
